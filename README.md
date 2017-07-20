@@ -14,6 +14,8 @@ After joining, check to see if there are any null values in the new 'countryCode
 
 Over time, we will create a list that is universally applicable to all of ONE's data sources, which will make it much easier to standardise country names across multiple data sets.
 
+Note: this file uses UTF-8 encoding to handle the special characters in several country names. Opening the file in Excel may cause problems, unless you load it specifically in UTF-8 format (see Galen for advice on this).
+
 #### country_groupings.csv
 
 This list uses ISO-3 country codes and then has multiple fields that specify whether or not a country is in a certain country group. By standardising this, we can ensure that all policy team data outputs use a consistant grouping methodology.
@@ -21,7 +23,7 @@ This list uses ISO-3 country codes and then has multiple fields that specify whe
 If you'd like to update this file - either by adding additional countries, adding additional groups, or updating groupings - please push an updated file or ask Kate for help.
 
 Current groupings contained in this file:
-* Less developed countries (currently based on [this] (https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/publication/ldc_list.pdf) list
+* Less developed countries (currently based on [this](https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/publication/ldc_list.pdf) list
 * Sub-Saharan African country
 * Fragile State (OECD definition; needs citation)
 * African country
