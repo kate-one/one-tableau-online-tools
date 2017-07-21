@@ -4,7 +4,7 @@ import pandas as pd
 WDI_PATH = '../../WorldBank-Dev_Indicators-1Jul17/WDI_csv/WDIData.csv'
 
 
-def tidy_wdi_data(file = WDI_PATH):
+def tidy_wdi_data(file = WDI_PATH, min_year = 2012):
     full_wb_data = pd.read_csv(file, encoding='utf-8')
 
     #Drop the extra blank column at the end
@@ -22,7 +22,7 @@ def tidy_wdi_data(file = WDI_PATH):
     full_wb_data_long = full_wb_data_long.dropna()
 
     # Keep only last 5 years of data
-    full_wb_data_long = full_wb_data_long[full_wb_data_long['Year'] >= 2012]
+    full_wb_data_long = full_wb_data_long[full_wb_data_long['Year'] >= min_year]
 
     full_wb_data_long.to_csv('../../WorldBank-Dev_Indicators-1Jul17/WDIData20170720.csv', index=False, encoding='utf-8')
 

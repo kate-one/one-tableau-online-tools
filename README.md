@@ -2,11 +2,11 @@
 
 This repo contains resources helpful to Tableau users on the ONE policy team. It also contains some scripts to pull and clean certain external data sets for use on Tableau Online.
 
-### Dimensions
+## Directory: dimensions
 
 This directory contains .csv files that can be useful add-ons to other data analysis in Tableau
 
-#### country_code_mapping.csv
+### country_code_mapping.csv
 
 Use this file to look up ISO-3 country codes for any data set that uses country names. Left-join this table onto your main data set, using the 'Country' field as a join key to whichever field contains country name in your data set.
 
@@ -16,7 +16,7 @@ Over time, we will create a list that is universally applicable to all of ONE's 
 
 Note: this file uses UTF-8 encoding to handle the special characters in several country names. Opening the file in Excel may cause problems, unless you load it specifically in UTF-8 format (see Galen for advice on this).
 
-#### country_groupings.csv
+### country_groupings.csv
 
 This list uses ISO-3 country codes and then has multiple fields that specify whether or not a country is in a certain country group. By standardising this, we can ensure that all policy team data outputs use a consistant grouping methodology.
 
@@ -28,6 +28,10 @@ Current groupings contained in this file:
 * Fragile State (OECD definition; needs citation)
 * African country
 
-### data-pull-scripts
+## Directory: data-pull-scripts
 
 This directory contains python scripts for pulling and cleaning data sets. More information to come.
+
+## WDI_practice_data.xlsx
+
+A practice dataset for new Tableau users. A small file containing a handful of indicators from the World Bank World Development Indicators dataset. It has been reformatted to be easy to use in Tableau.

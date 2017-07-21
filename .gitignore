@@ -102,3 +102,9 @@ ENV/
 
 # Pycharm
 *.idea
+
+# Strange mac server files
+.smbdelete*
+
+# Ignore the full data resources
+data/
