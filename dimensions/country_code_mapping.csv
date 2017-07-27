@@ -63,6 +63,7 @@ Colombia,COL
 Comoros,COM
 Congo,COG
 Congo Democratic Republic,COD
+"Congo, Democratic Republic of the",COD
 Congo Republic,COG
 Congo - Brazzaville,COG
 Congo - Kinshasa,COD
@@ -84,6 +85,7 @@ Dem. People's Rep. of Korea,PRK
 Dem. Rep. of the Congo,COD
 Democratic People's Republic of Korea,PRK
 Dem. People's Republic of Korea,PRK
+"Korea, Democratic People's Republic of",PRK
 Democratic Republic of the Congo,COD
 Denmark,DNK
 Djibouti,DJI
@@ -130,6 +132,7 @@ Holy See,VAT
 Holy See (the),VAT
 Honduras,HND
 Hong Kong,HKG
+"Hong Kong, China",HKG
 Hungary,HUN
 Iceland,ISL
 India,IND
@@ -137,6 +140,7 @@ Indonesia,IDN
 Iran,IRN
 Iran (Islamic Rep. of),IRN
 Iran (Islamic Republic of),IRN
+"Iran, Islamic Republic of",IRN
 Iraq,IRQ
 Ireland,IRL
 Isle of Man,IMN
@@ -165,7 +169,9 @@ Liechtenstein,LIE
 Lithuania,LTU
 Luxembourg,LUX
 Macau,MAC
+"Macau, China",MAC
 Macedonia,MKD
+"Macedonia, the former Yugoslav Republic of",MKD
 TFYR Macedonia,MKD
 Madagascar,MDG
 Malawi,MWI
@@ -183,6 +189,7 @@ Micronesia,FSM
 Micronesia (Federated States of),FSM
 Micronesia (Fed. States of),FSM
 Moldova,MDA
+"Moldova, Republic of",MDA
 Monaco,MCO
 Mongolia,MNG
 Montenegro,MNE
@@ -207,6 +214,7 @@ Norway,NOR
 Oman,OMN
 Pakistan,PAK
 Palau,PLW
+"Occupied Palestinian Territory",PSE
 Palestine,PSE
 Palestinian,PSE
 Panama,PAN
@@ -222,6 +230,7 @@ Qatar,QAT
 Rep. of Korea,KOR
 Rep. of Moldova,MDA
 Republic of Korea,KOR
+"Korea, Republic of",KOR
 Republic of Moldova,MDA
 R̩union,REU
 Romania,ROU
@@ -278,8 +287,10 @@ Syria,SYR
 Syrian Arab Rep.,SYR
 Syrian Arab Republic,SYR
 Taiwan,TWN
+"Taiwan, China",TWN
 Tajikistan,TJK
 Tanzania,TZA
+"Tanzania, United Republic of",TZA
 Thailand,THA
 The former Yugoslav Republic of Macedonia,MKD
 Tibetan,TIB
@@ -317,6 +328,7 @@ Various/unknown,XXX
 Vatican City,VAT
 Venezuela,VEN
 Venezuela (Bolivarian Republic of),VEN
+"Venezuela, Bolivarian Republic of",VEN
 Viet Nam,VNM
 Vietnam,VNM
 Wallis & Futuna,WLF
