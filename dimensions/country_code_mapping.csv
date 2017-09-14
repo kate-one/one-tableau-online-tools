@@ -1,4 +1,4 @@
-Country,countryCode
+Country,CountryCode
 Afghanistan,AFG
 Åland Islands,ALA
 Aland Islands,ALA
@@ -40,6 +40,7 @@ Brunei,BRN
 Brunei Darussalam,BRN
 Bulgaria,BGR
 Burkina Faso,BFA
+Burma,MMR
 Burundi,BDI
 Cabo Verde,CPV
 Cambodia,KHM
@@ -67,6 +68,7 @@ Congo Democratic Republic,COD
 Congo Republic,COG
 Congo - Brazzaville,COG
 Congo - Kinshasa,COD
+Congo (Kinshasa),COD
 "Congo, Republic of",COG
 Cook Islands,COK
 Costa Rica,CRI
