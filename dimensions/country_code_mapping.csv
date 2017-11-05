@@ -29,6 +29,7 @@ Bermuda,BMU
 Bhutan,BTN
 Bolivia,BOL
 Bolivia (Plurinational State of),BOL
+"Bolivia, Plurinational State of",BOL
 Bosnia,BIH
 Bosnia and Herzegovina,BIH
 Botswana,BWA
@@ -64,19 +65,25 @@ Colombia,COL
 Comoros,COM
 Congo,COG
 Congo Democratic Republic,COD
+DRC,COD
 "Congo, Democratic Republic of the",COD
+"Congo, the Democratic Republic of the",COD
 Congo Republic,COG
 Congo - Brazzaville,COG
 Congo (Brazzaville),COG
 Congo - Kinshasa,COD
 Congo (Kinshasa),COD
 "Congo, Republic of",COG
+"Congo, the Republic of the",COG
 Cook Islands,COK
 Costa Rica,CRI
+Ivory Coast,CIV
+Cote d'Ivoire,CIV
 Cote d Ivoire,CIV
 C�te d'Ivoire,CIV
 C̫te d'Ivoire,CIV
 Côte d'Ivoire,CIV
+Côte d’Ivoire,CIV
 Croatia,HRV
 Cuba,CUB
 Cura̤ao,CUW
@@ -226,6 +233,7 @@ Papua New Guinea,PNG
 Paraguay,PRY
 Peru,PER
 Philippines,PHL
+Philipenes,PHL
 Pitcairn Islands,PCN
 Poland,POL
 Portugal,PRT
@@ -323,6 +331,7 @@ United Kingdom of Great Britain and Northern Ireland,GBR
 United Rep. of Tanzania,TZA
 United Republic of Tanzania,TZA
 United States of America,USA
+USA,USA
 United States,USA
 Uruguay,URY
 US,USA
@@ -355,6 +364,7 @@ Democratic Republic of Congo,COD
 Congo (Republic of),COG
 "Iran, Islamic Republic of",IRN
 "Macedonia, FYR",MKD
+Republic of Macedonia,MKD
 Russian Federation,RUS
 "Serbia, Republic of",SRB
 St. Kitts and Nevis,KNA

@@ -108,3 +108,6 @@ ENV/
 
 # Ignore the full data resources
 data/
+
+# Mac Finder files
+.DS_Store
